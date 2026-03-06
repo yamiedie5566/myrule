@@ -1,0 +1,62 @@
+# 直连补充列表
+SRC-IP-CIDR,192.168.5.150/32
+SRC-IP-CIDR,192.168.5.180/32
+DOMAIN-SUFFIX,myzwq.cn
+DOMAIN-SUFFIX,canghaitv.com
+DOMAIN-KEYWORD,188766.xyz
+#DOMAIN-SUFFIX,epg.iill.top
+#DOMAIN-SUFFIX,hls.iill.top
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+#DOMAIN-SUFFIX,catvod.com
+#DOMAIN,canghaitv.comcanghaitv.com
+#DOMAIN-KEYWORD,miui
+DOMAIN-SUFFIX,gh.mushuww.ggff.net
+DOMAIN-SUFFIX,istoreos.com
+DOMAIN-SUFFIX,mirrors.vsean.net
+
+DOMAIN-SUFFIX,tv1288.xyz
+DOMAIN-SUFFIX,f13h.mine.nu
+DOMAIN-SUFFIX,iptv.4666888.xyz
+DOMAIN-SUFFIX,gh-proxy.org
+DOMAIN-SUFFIX,t.061899.xyz
+DOMAIN-SUFFIX,php.jdshipin.com
+DOMAIN-SUFFIX,163189.xyz
+DOMAIN-SUFFIX,i.imgur.com
+DOMAIN-SUFFIX,flaticon.com
+DOMAIN-SUFFIX,711888.xyz
+DOMAIN-SUFFIX,716888.xyz
+DOMAIN-SUFFIX,168.us.kg
+DOMAIN-SUFFIX,gcore.jsdelivr.net
+DOMAIN-SUFFIX,gongdian.top
+
+
+#steamcdn
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
+
+# 🇨🇳 国区 Steam / 完美世界 / 国内 CDN
+DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,gstore.val.manlaxy.com
+
+# 🇨🇳 国内 Steam 下载 CDN
+DOMAIN-SUFFIX,client-update.queniuqe.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,xz.pphimalayanrt.com
+
+# 🇨🇳 国内加速镜像 / 转发域名
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+
+# 域名后缀匹配
+#DOMAIN-SUFFIX,baidu.com
+#DOMAIN-KEYWORD,keeflys

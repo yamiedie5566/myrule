@@ -1,0 +1,64 @@
+# hoyoverse
+DST-PORT,22101
+DST-PORT,22102
+DST-PORT,22103
+DST-PORT,22104
+DST-PORT,22105
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-KEYWORD,hoyoverse
+
+
+# steam
+# 🌍 Steam 国际核心服务（登录 / 商店 / 社区 / API）
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,steam.tv
+DOMAIN-SUFFIX,underlords.com
+
+# 🌍 国际 CDN / Akamai / 海外 steampipe
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steammobile.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+
+# 🌍 海外 ISP / 区域 CDN（国内不稳定）
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steam.cdn.on.net
+DOMAIN-SUFFIX,steam.cdn.webra.ru
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+
+# 🌍 Steam 全球区域调度域名
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+
+# 🌍 不明确但明显是海外 CDN
+DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
+DOMAIN,f3b7q2p3.ssl.hwcdn.net
