@@ -4,15 +4,13 @@ SRC-IP-CIDR,192.168.5.180/32
 DOMAIN-SUFFIX,myzwq.cn
 DOMAIN-SUFFIX,canghaitv.com
 DOMAIN-KEYWORD,188766.xyz
-#DOMAIN-SUFFIX,epg.iill.top
-#DOMAIN-SUFFIX,hls.iill.top
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 #DOMAIN-SUFFIX,catvod.com
 #DOMAIN,canghaitv.comcanghaitv.com
-#DOMAIN-KEYWORD,miui
 DOMAIN-SUFFIX,gh.mushuww.ggff.net
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,mirrors.vsean.net
+DOMAIN-SUFFIX,dgtv.mushuww.ggff.net
 
 DOMAIN-SUFFIX,tv1288.xyz
 DOMAIN-SUFFIX,f13h.mine.nu
